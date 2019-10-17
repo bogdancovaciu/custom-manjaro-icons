@@ -9,4 +9,8 @@ The icons
 
 ![Alt Text](https://raw.githubusercontent.com/bogdancovaciu/custom-manjaro-icons/master/preview.png)
 
+PAMAC tray icons preview
+
+![Alt Text](https://raw.githubusercontent.com/bogdancovaciu/custom-manjaro-icons/master/pamac-systray.png)
+
 Link to [mntray](https://github.com/moson-mo/mntray) by @moson-mo
