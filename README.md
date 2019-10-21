@@ -1,16 +1,15 @@
 # custom-manjaro-icons
 A few Manjaro customized icons, as .svg files. Based on Papirus icons.
 
-Mostly i have done this for Status and Notifications icons.
+### screenshot
 
 ![Alt Text](https://raw.githubusercontent.com/bogdancovaciu/custom-manjaro-icons/master/image.png)
 
-The icons
+### mntray
 
-![Alt Text](https://raw.githubusercontent.com/bogdancovaciu/custom-manjaro-icons/master/preview.png)
-
-PAMAC tray icons preview
-
-![Alt Text](https://raw.githubusercontent.com/bogdancovaciu/custom-manjaro-icons/master/pamac-systray.png)
-
+Still not clear if the icons will remain embeded as binary files.
 Link to [mntray](https://github.com/moson-mo/mntray) by @moson-mo
+
+### scraps folder is not for consideration
+
+is where i keep all the ugly stuff.
