@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="utilities-log-viewer.svg">
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview116"
+     showgrid="false"
+     inkscape:zoom="13.906433"
+     inkscape:cx="47.325901"
+     inkscape:cy="27.190733"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="a"
+       y1="543.8"
+       y2="503.8"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1 0 0 .9 0 54.38)">
+      <stop
+         stop-color="#1d1e1e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#44484c"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       y1="44"
+       y2="4"
+       x2="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#c6cdd1"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#e0e5e7"
+         id="stop14" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-384.57-499.8)"
+     id="g16">
+    <path
+       stroke-opacity=".55"
+       fill="url(#b)"
+       stroke-width="2.8"
+       d="m4 4v40h40v-40z"
+       transform="translate(384.57 499.8)"
+       id="path18" />
+    <rect
+       width="40"
+       x="388.57"
+       y="542.8"
+       fill="#99a1a7"
+       height="1"
+       id="rect20" />
+    <path
+       fill="#eff0f1"
+       fill-rule="evenodd"
+       d="m402.57 514.8v15l12-7.5z"
+       id="path22" />
+    <rect
+       width="40"
+       x="388.57"
+       y="508.8"
+       fill="url(#a)"
+       rx="0"
+       height="31"
+       id="rect24" />
+    <g
+       transform="translate(-51-7)"
+       id="g26">
+      <rect
+         width="40"
+         x="439.57"
+         y="510.8"
+         fill="#566069"
+         height="4"
+         id="rect28"
+         style="fill:#292f34;fill-opacity:1" />
+      <rect
+         width="40"
+         x="439.57"
+         y="514.8"
+         fill="#3daee9"
+         height="1"
+         id="rect30"
+         style="fill:#1abc9c;fill-opacity:1" />
+      <rect
+         width="2"
+         x="476.57"
+         y="511.8"
+         fill="#eff0f1"
+         rx="1"
+         height="2"
+         id="rect32" />
+    </g>
+    <g
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       color="#000000"
+       stroke-width="3"
+       id="g34">
+      <circle
+         fill="#eff0f1"
+         cx="395.07"
+         cy="533.3"
+         r="3.5"
+         id="circle36" />
+      <circle
+         fill="#3daefd"
+         cx="395.07"
+         cy="533.3"
+         r="2.5"
+         id="circle38" />
+      <circle
+         fill="#eff0f1"
+         cx="395.07"
+         cy="524.3"
+         r="3.5"
+         id="circle40" />
+      <circle
+         fill="#3daefd"
+         cx="395.07"
+         cy="524.3"
+         r="2.5"
+         id="circle42" />
+    </g>
+    <g
+       fill="#da4453"
+       id="g44">
+      <rect
+         width="2"
+         x="399.57"
+         y="513.8"
+         height="1"
+         id="rect46" />
+      <rect
+         width="3"
+         x="402.57"
+         y="513.8"
+         height="1"
+         id="rect48" />
+    </g>
+    <g
+       fill="#95a5a6"
+       id="g50">
+      <rect
+         width="3"
+         x="408.57"
+         y="513.8"
+         height="1"
+         id="rect52" />
+      <rect
+         width="6"
+         x="413.57"
+         y="513.8"
+         height="1"
+         id="rect54" />
+      <rect
+         width="4"
+         x="420.57"
+         y="513.8"
+         height="1"
+         id="rect56" />
+    </g>
+    <g
+       fill="#bdc3c7"
+       id="g58">
+      <rect
+         width="4"
+         x="399.57"
+         y="515.8"
+         height="1"
+         id="rect60" />
+      <rect
+         width="2"
+         x="404.57"
+         y="515.8"
+         height="1"
+         id="rect62" />
+    </g>
+    <rect
+       width="8"
+       x="408.57"
+       y="515.8"
+       fill="#95a5a6"
+       height="1"
+       id="rect64" />
+    <g
+       fill="#3daefd"
+       id="g66">
+      <rect
+         width="2"
+         x="399.57"
+         y="522.8"
+         height="1"
+         id="rect68" />
+      <rect
+         width="3"
+         x="402.57"
+         y="522.8"
+         height="1"
+         id="rect70" />
+    </g>
+    <g
+       fill="#95a5a6"
+       id="g72">
+      <rect
+         width="4"
+         x="408.57"
+         y="522.8"
+         height="1"
+         id="rect74" />
+      <rect
+         width="4"
+         x="414.57"
+         y="522.8"
+         height="1"
+         id="rect76" />
+      <rect
+         width="5"
+         x="419.57"
+         y="522.8"
+         height="1"
+         id="rect78" />
+    </g>
+    <rect
+       width="3"
+       x="399.57"
+       y="524.8"
+       fill="#bdc3c7"
+       height="1"
+       id="rect80" />
+    <g
+       fill="#95a5a6"
+       id="g82">
+      <rect
+         width="3"
+         x="408.57"
+         y="524.8"
+         height="1"
+         id="rect84" />
+      <rect
+         width="1"
+         x="412.57"
+         y="524.8"
+         height="1"
+         id="rect86" />
+      <rect
+         width="5"
+         x="414.57"
+         y="524.8"
+         height="1"
+         id="rect88" />
+      <g
+         transform="scale(-1 1)"
+         id="g90">
+        <rect
+           width="2"
+           x="-419.57"
+           y="533.8"
+           height="1"
+           id="rect92" />
+        <rect
+           width="8"
+           x="-416.57"
+           y="533.8"
+           height="1"
+           id="rect94" />
+      </g>
+    </g>
+    <g
+       transform="scale(-1 1)"
+       id="g96">
+      <rect
+         width="7"
+         x="-406.57"
+         y="533.8"
+         fill="#bdc3c7"
+         height="1"
+         id="rect98" />
+      <g
+         fill="#95a5a6"
+         id="g100">
+        <rect
+           width="2"
+           x="-424.57"
+           y="531.8"
+           height="1"
+           id="rect102" />
+        <rect
+           width="3"
+           x="-421.57"
+           y="531.8"
+           height="1"
+           id="rect104" />
+        <rect
+           width="9"
+           x="-417.57"
+           y="531.8"
+           height="1"
+           id="rect106" />
+      </g>
+      <rect
+         width="5"
+         x="-404.57"
+         y="531.8"
+         fill="#3daefd"
+         height="1"
+         id="rect108" />
+    </g>
+    <g
+       fill-rule="evenodd"
+       id="g110">
+      <path
+         fill="#eff0f1"
+         color-rendering="auto"
+         shape-rendering="auto"
+         color-interpolation-filters="linearRGB"
+         image-rendering="auto"
+         text-rendering="auto"
+         color-interpolation="sRGB"
+         color="#000000"
+         stroke-width="2"
+         d="m395.07 511.72l-3.501 1.467c0 0 .416 1.902.867 3 .225.551.5 1.121.889 1.617.389.496.965.99 1.745.99.78 0 1.354-.494 1.743-.99.389-.496.664-1.066.889-1.617.451-1.102.869-3 .869-3z"
+         id="path112" />
+      <path
+         fill="#da4453"
+         d="m392.57 513.8l2.5-1 2.5 1c0 0-.928 4-2.5 4-1.572 0-2.5-4-2.5-4"
+         id="path114" />
+    </g>
+  </g>
+</svg>
